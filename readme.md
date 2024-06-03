@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ### Dateset 
 
-see preparing datasets for ITA.
+[see preparing datasets for ITA.](https://github.com/ccssyy2000/ITA/blob/main/dataset.md)
 
 ### Started
 
