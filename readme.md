@@ -4,7 +4,7 @@
 
 ## Image-Text Aggregation for Open-Vocabulary Semantic Segmentation
 
-me_1.png
+[me_1.png](https://github.com/ccssyy2000/ITA/blob/main/me_1.png)
 
 This paper proposes a novel single-stage open-vocabulary semantic segmentation method based on image-text aggregation (ITA). In contrast to two-stage approaches, we unify the mask generation and classification operations into a single stage by designing an image-text aggregation module, which improves the ability to handle open-vocabulary segmentation tasks. Additionally, to further employ image-text aggregation, we adopt a detail enhancement module to alleviate the problem of detail loss caused by downsampling in high-resolution images. Furthermore, we leverage a dominant category unearthing module to mitigate the issue of random optimization resulting from the random initialization of query vectors. Experimental results on five widely used benchmark datasets demonstrate that our ITA achieves excellent segmentation performance compared to state-of-the-art open-vocabulary semantic segmentation methods.
 
